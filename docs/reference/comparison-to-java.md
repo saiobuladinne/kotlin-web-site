@@ -44,3 +44,6 @@ Kotlin fixes a series of issues that Java suffers from
 * [Companion objects](classes.html#companion-objects)
 * [Data classes](data-classes.html)
 * [Separate interfaces for read-only and mutable collections](collections.html)
+
+
+FYI- I'm assuming this content is outdated, and we have JAVA8 which resolves Everything for this Question above(## What Kotlin has that Java does not)
